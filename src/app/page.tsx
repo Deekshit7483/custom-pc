@@ -46,12 +46,15 @@ export default function HomePage() {
                 key={pc.id}
                 className="bg-white shadow-xl border border-purple-100 rounded-3xl p-6 hover:scale-[1.02] hover:shadow-2xl transition-all duration-300 ease-in-out"
               >
-                <img
-                  src={pc.images[0]}
-                  alt={pc.name}
-                  className="w-full h-60 object-cover rounded-2xl mb-4 shadow-sm"
-                  style={{ objectPosition: 'center' }}
-                />
+               <Image
+  src={pc.images[0]}
+  alt={pc.name}
+  width={800} // Choose a realistic width
+  height={240} // Equivalent to h-60 (60 * 4 = 240px)
+  className="w-full h-65 object-cover rounded-2xl mb-4 shadow-sm"
+  style={{ objectPosition: 'center' }}
+/>
+
 
                 <h2 className="text-2xl font-semibold text-gray-800 mb-2">{pc.name}</h2>
 
@@ -63,7 +66,7 @@ export default function HomePage() {
                   </span>
                 </div>
 
-                <div className="flex flex-wrap gap-3 mt-4">
+                <div className="flex flex-row sm:flex-row sm:justify-between gap-3 mt-4">
                   <Link href={`/pc/${pc.id}`}>
                     <button className="bg-gradient-to-r from-pink-500 to-violet-600 text-white px-5 py-2 rounded-xl shadow-lg hover:shadow-2xl transition-transform hover:scale-105 duration-200">
                       View Details
