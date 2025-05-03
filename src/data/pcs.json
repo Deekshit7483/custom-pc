@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Gaming Beast Xtreme",
     "images": [
-      "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=640&q=80"
+      "/pc1.png"
     ],
     "labelText": "🔥 Gamer's Choice",
     "labelColor": "#FF6B6B",
@@ -23,7 +23,7 @@
     "id": "2",
     "name": "Office Pro Essential",
     "images": [
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=640&q=80"
+      "/pc2.png"
     ],
     "labelText": "💼 Office Use",
     "labelColor": "#4ECDC4",
@@ -63,7 +63,7 @@
     "id": "4",
     "name": "Budget Starter",
     "images": [
-      "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=640&q=80"
+      "/pc4.png"
     ],
     "labelText": "💰 Budget Pick",
     "labelColor": "#6C757D",
@@ -103,7 +103,7 @@
     "id": "6",
     "name": "Mini PowerCube",
     "images": [
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=640&q=80"
+      "/pc2.png"
     ],
     "labelText": "📦 Compact Power",
     "labelColor": "#00C9A7",
