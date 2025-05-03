@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Gaming Beast Xtreme",
+    "images": [
+      "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=640&q=80"
+    ],
+    "labelText": "🔥 Gamer's Choice",
+    "labelColor": "#FF6B6B",
+    "cpu": "Intel Core i7-13700K (16-core, up to 5.4GHz)",
+    "gpu": "NVIDIA GeForce RTX 4070 12GB GDDR6X",
+    "ram": "32GB DDR5-6000MHz (2x16GB)",
+    "storage": "1TB NVMe Gen4 SSD + 2TB HDD",
+    "motherboard": "ASUS ROG Strix Z790-E Gaming WiFi",
+    "powerSupply": "750W 80+ Gold Certified",
+    "cooling": "240mm AIO Liquid Cooler",
+    "os": "Windows 11 Pro",
+    "price": "$1500",
+    "offerPrice": "$1200",
+    "description": "A high-performance gaming rig built for 1440p and 4K gaming, streaming, and content creation."
+  },
+  {
+    "id": "2",
+    "name": "Office Pro Essential",
+    "images": [
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=640&q=80"
+    ],
+    "labelText": "💼 Office Use",
+    "labelColor": "#4ECDC4",
+    "cpu": "Intel Core i5-13400 (10-core, up to 4.6GHz)",
+    "gpu": "Intel UHD Graphics 730 (Integrated)",
+    "ram": "16GB DDR4-3200MHz (1x16GB)",
+    "storage": "512GB M.2 SSD",
+    "motherboard": "Gigabyte B660M DS3H AX DDR4",
+    "powerSupply": "500W 80+ Bronze",
+    "cooling": "Stock Intel Air Cooler",
+    "os": "Windows 11 Home",
+    "price": "$749",
+    "offerPrice": "$200",
+    "description": "Reliable office PC with great multitasking capability, ideal for remote work, productivity, and light media."
+  },
+  {
+    "id": "3",
+    "name": "Creator Studio Max",
+    "images": [
+      "/pc3.jpg"
+    ],
+    "labelText": "🎥 Editor's Pick",
+    "labelColor": "#FFD93D",
+    "cpu": "AMD Ryzen 9 7900X (12-core, up to 5.6GHz)",
+    "gpu": "NVIDIA RTX 4080 Super 16GB",
+    "ram": "64GB DDR5-5600MHz",
+    "storage": "2TB NVMe SSD",
+    "motherboard": "MSI MPG X670E Carbon WiFi",
+    "powerSupply": "850W 80+ Platinum",
+    "cooling": "360mm Liquid Cooler",
+    "os": "Windows 11 Pro",
+    "price": "$2899",
+    "offerPrice": "$900",
+    "description": "Workstation-grade PC for video editing, 3D rendering, and advanced creative workloads."
+  },
+  {
+    "id": "4",
+    "name": "Budget Starter",
+    "images": [
+      "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=640&q=80"
+    ],
+    "labelText": "💰 Budget Pick",
+    "labelColor": "#6C757D",
+    "cpu": "AMD Ryzen 5 5600G (6-core with Radeon Graphics)",
+    "gpu": "Integrated Radeon Vega 7",
+    "ram": "8GB DDR4-3200MHz",
+    "storage": "256GB SSD",
+    "motherboard": "ASRock A520M-HDV",
+    "powerSupply": "450W 80+ White",
+    "cooling": "Stock AMD Wraith Stealth Cooler",
+    "os": "Windows 10 Home",
+    "price": "$449",
+    "offerPrice": "$200",
+    "description": "Affordable entry-level PC for browsing, school work, and light office tasks."
+  },
+  {
+    "id": "5",
+    "name": "StreamMaster Pro",
+    "images": [
+      "/pc5.png"
+    ],
+    "labelText": "🎮 Streaming Pro",
+    "labelColor": "#845EC2",
+    "cpu": "Intel Core i9-13900KF (24-core, up to 5.8GHz)",
+    "gpu": "NVIDIA RTX 4070 Ti SUPER 16GB",
+    "ram": "32GB DDR5-6000MHz (2x16GB)",
+    "storage": "2TB NVMe SSD + 4TB HDD",
+    "motherboard": "MSI Z790 Tomahawk WiFi",
+    "powerSupply": "850W 80+ Gold Modular",
+    "cooling": "280mm AIO Liquid Cooler",
+    "os": "Windows 11 Pro",
+    "price": "$2399",
+    "offerPrice": "$2200",
+    "description": "Tailored for live streaming and gaming with zero compromises — ideal for creators using OBS, Adobe Premiere, and high-end games."
+  },
+  {
+    "id": "6",
+    "name": "Mini PowerCube",
+    "images": [
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=640&q=80"
+    ],
+    "labelText": "📦 Compact Power",
+    "labelColor": "#00C9A7",
+    "cpu": "AMD Ryzen 7 7700 (8-core, up to 5.3GHz)",
+    "gpu": "NVIDIA RTX 4060 8GB",
+    "ram": "16GB DDR5-5200MHz",
+    "storage": "1TB Gen4 M.2 SSD",
+    "motherboard": "ASUS ROG Strix B650-I Mini-ITX",
+    "powerSupply": "650W SFX 80+ Gold",
+    "cooling": "Low-profile Air Cooler (Noctua NH-L9a)",
+    "os": "Windows 11 Home",
+    "price": "$1299",
+    "offerPrice": "$1100",
+    "description": "Compact yet powerful Mini-ITX build for small spaces and stylish desk setups — quiet and VR-ready."
+  }
+]
