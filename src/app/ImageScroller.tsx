@@ -43,7 +43,7 @@ export default function ImageScroller({ images }: { images: string[] }) {
             className="flex-shrink-0 w-full snap-center"
             style={{ flexBasis: '100%' }}
           >
-            <Image
+            <img
               src={img}
               alt={`Image ${idx + 1}`}
               className="w-full h-auto max-h-64 object-cover rounded"

@@ -46,7 +46,7 @@ export default function HomePage() {
                 key={pc.id}
                 className="bg-white shadow-xl border border-purple-100 rounded-3xl p-6 hover:scale-[1.02] hover:shadow-2xl transition-all duration-300 ease-in-out"
               >
-                <Image
+                <img
                   src={pc.images[0]}
                   alt={pc.name}
                   className="w-full h-60 object-cover rounded-2xl mb-4 shadow-sm"

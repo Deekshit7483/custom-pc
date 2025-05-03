@@ -22,7 +22,7 @@ export default function Header() {
 
       {/* Profile Image in the top-right corner */}
       <div className="absolute top-3 right-4">
-        <Image
+        <img
           src="profile.png"
           alt="Profile"
           className="w-10 h-10 rounded-full object-cover border-1 border-blue-600"
